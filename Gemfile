@@ -10,3 +10,9 @@ gem 'sinatra-contrib'
 gem 'rspec'
 gem 'sinatra-reloader'
 gem 'capybara'
+gem 'simplecov'
+gem 'simplecov-console'
+
+group :development, :test do 
+  gem "rubocop", "1.20"
+end 

@@ -13,7 +13,15 @@
 # it.
 #
 # at the top of spec/spec_helper.rb
+require 'simplecov'
+require 'simplecov-console'
 
+SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter.new([
+  SimpleCov::Formatter::Console,
+  # Want a nice code coverage website? Uncomment this next line!
+  # SimpleCov::Formatter::HTMLFormatter
+])
+SimpleCov.start
 # Set the environment to "test"
 ENV['RACK_ENV'] = 'test'
 
@@ -116,5 +124,3 @@ RSpec.configure do |config|
   Kernel.srand config.seed
 =end
 end
-
-
