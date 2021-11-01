@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/dsmythe/Projects/MakersProjects/Bookmark_Manager/app.rb": {
+      "/Users/rebecca/Projects/Makers/Week_6_Databases/Bookmark/Bookmark_Manager/app.rb": {
         "lines": [
           1,
           1,
@@ -26,7 +26,7 @@
           null
         ]
       },
-      "/Users/dsmythe/Projects/MakersProjects/Bookmark_Manager/lib/bookmark.rb": {
+      "/Users/rebecca/Projects/Makers/Week_6_Databases/Bookmark/Bookmark_Manager/lib/bookmark.rb": {
         "lines": [
           1,
           1,
@@ -38,14 +38,8 @@
           null
         ]
       },
-      "/Users/dsmythe/Projects/MakersProjects/Bookmark_Manager/spec/features/bookmark_spec.rb": {
+      "/Users/rebecca/Projects/Makers/Week_6_Databases/Bookmark/Bookmark_Manager/spec/features/bookmark_spec.rb": {
         "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
           null,
           1,
           1,
@@ -55,7 +49,7 @@
           null
         ]
       },
-      "/Users/dsmythe/Projects/MakersProjects/Bookmark_Manager/spec/features/test_setup_spec.rb": {
+      "/Users/rebecca/Projects/Makers/Week_6_Databases/Bookmark/Bookmark_Manager/spec/features/test_setup_spec.rb": {
         "lines": [
           null,
           1,
@@ -67,6 +61,6 @@
         ]
       }
     },
-    "timestamp": 1635781336
+    "timestamp": 1635781786
   }
 }
