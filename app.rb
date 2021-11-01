@@ -6,7 +6,7 @@ class BookmarkManager < Sinatra::Base
     register Sinatra::Reloader 
   end 
 
-  get '/' do 
+  get '/test' do 
     'Hello World'
   end 
 
