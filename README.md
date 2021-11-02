@@ -4,7 +4,7 @@ As a user, so I can see what bookmarks I have saved I want to be abble to see a 
 See Excel file for domain model
 
 ---------------------
-SQL
+SQL - To set up database
 1) Connect to psql
 2) Create the database using the psql command CREATE DATABASE bookmark_manager;
 3) Connect to the database using the pqsl command \c bookmark_manager;
