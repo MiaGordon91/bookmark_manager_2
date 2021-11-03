@@ -12,6 +12,7 @@ gem 'sinatra-reloader'
 gem 'capybara'
 gem 'simplecov'
 gem 'simplecov-console'
+gem 'pg'
 
 group :development, :test do 
   gem "rubocop", "1.20"

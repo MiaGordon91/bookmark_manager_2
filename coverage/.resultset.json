@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/rebecca/Projects/Makers/Week_6_Databases/Bookmark/Bookmark_Manager/app.rb": {
+      "/Users/mia.gordon/Desktop/Makers/Projects/databases/bookmark_manager_2/bookmark_manager/app.rb": {
         "lines": [
           1,
           1,
@@ -26,19 +26,56 @@
           null
         ]
       },
-      "/Users/rebecca/Projects/Makers/Week_6_Databases/Bookmark/Bookmark_Manager/lib/bookmark.rb": {
+      "/Users/mia.gordon/Desktop/Makers/Projects/databases/bookmark_manager_2/bookmark_manager/lib/bookmark.rb": {
         "lines": [
-          1,
           1,
           null,
           1,
           1,
+          2,
+          2,
+          null,
+          0,
+          null,
+          null,
+          2,
+          11,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null,
           null,
           null
         ]
       },
-      "/Users/rebecca/Projects/Makers/Week_6_Databases/Bookmark/Bookmark_Manager/spec/features/bookmark_spec.rb": {
+      "/Users/mia.gordon/Desktop/Makers/Projects/databases/bookmark_manager_2/bookmark_manager/spec/bookmark_spec.rb": {
+        "lines": [
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/mia.gordon/Desktop/Makers/Projects/databases/bookmark_manager_2/bookmark_manager/spec/features/test_setup_spec.rb": {
         "lines": [
           null,
           1,
@@ -49,10 +86,21 @@
           null
         ]
       },
-      "/Users/rebecca/Projects/Makers/Week_6_Databases/Bookmark/Bookmark_Manager/spec/features/test_setup_spec.rb": {
+      "/Users/mia.gordon/Desktop/Makers/Projects/databases/bookmark_manager_2/bookmark_manager/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
+          1,
           null,
           1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
           1,
           1,
           1,
@@ -61,6 +109,6 @@
         ]
       }
     },
-    "timestamp": 1635781786
+    "timestamp": 1635953748
   }
 }
